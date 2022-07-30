@@ -1,1 +1,1 @@
-# mini_project_whatsapp_clone-
+# project_whatsapp_clone-
